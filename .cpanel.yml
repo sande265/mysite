@@ -2,4 +2,4 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/sandeshnp/public_html/
-    - /bin/cp / $sandeshsingh.com.np
+    - /bin/cp * $sandeshsingh.com.np
